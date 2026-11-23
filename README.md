@@ -1,4 +1,4 @@
-## AWS Cloud Security & Networking Project
+### AWS Cloud Security & Networking Project
 
 # Overview
 Cloud security project focused on AWS architecture, security controls, risk management and application of the NIST Cybersecurity Framework (CSF).
