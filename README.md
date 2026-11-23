@@ -4,11 +4,15 @@
 Cloud security project focused on AWS architecture, security controls, risk management and application of the NIST Cybersecurity Framework (CSF).
 
 ## My Contribution
-• Developed AWS architecture diagrams using Draw.io
-• Configured AWS cloud services
-• Applied networking and access control principles
-• Evaluated AWS services for business requirements
-• Contributed to a presentation on the NIST Cybersecurity Framework (CSF)
+#### • Developed AWS architecture diagrams using Draw.io
+
+#### • Configured AWS cloud services
+
+#### • Applied networking and access control principles
+
+#### • Evaluated AWS services for business requirements
+
+#### • Contributed to a presentation on the NIST Cybersecurity Framework (CSF)
 
 ## Technologies Used
 ### • AWS
