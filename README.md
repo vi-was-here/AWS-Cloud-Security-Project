@@ -12,10 +12,15 @@ Cloud security project focused on AWS architecture, security controls, risk mana
 
 ## Technologies Used
 • AWS
+
 • IAM
+
 • VPC
+
 • EC2
+
 • Draw.io
+
 • Microsoft PowerPoint
 
 Outcome
