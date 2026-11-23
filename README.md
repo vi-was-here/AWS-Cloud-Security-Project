@@ -11,17 +11,17 @@ Cloud security project focused on AWS architecture, security controls, risk mana
 • Contributed to a presentation on the NIST Cybersecurity Framework (CSF)
 
 ## Technologies Used
-###• AWS
+### • AWS
 
-###• IAM
+### • IAM
 
-###• VPC
+### • VPC
 
-###• EC2
+### • EC2
 
-###• Draw.io
+### • Draw.io
 
-###• Microsoft PowerPoint
+### • Microsoft PowerPoint
 
 ## Outcome
 • Group presentation achieved a mark of 17.5/20
