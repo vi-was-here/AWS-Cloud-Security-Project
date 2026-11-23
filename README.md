@@ -36,7 +36,7 @@
 #### • Demonstrated understanding of cloud security concepts, risk management, and security governance
 
 ## Evidence
-###See the attached presentation slides and supporting screenshots.
+### See the attached presentation slides and supporting screenshots.
 #### • Presentation slides
 #### • AWS screenshots
 #### • Architecture diagrams
