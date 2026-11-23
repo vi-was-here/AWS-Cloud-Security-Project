@@ -12,18 +12,13 @@ Cloud security project focused on AWS architecture, security controls, risk mana
 
 ## Technologies Used
 • AWS
-
 • IAM
-
 • VPC
-
 • EC2
-
 • Draw.io
-
 • Microsoft PowerPoint
 
-Outcome
+## Outcome
 • Group presentation achieved a mark of 17.5/20
 • Demonstrated understanding of cloud security concepts, risk management, and security governance
 
